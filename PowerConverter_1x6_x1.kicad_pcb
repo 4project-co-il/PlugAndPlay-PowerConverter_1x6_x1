@@ -8,7 +8,7 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "PlugAndPlay Power Converter 2x6 x1")
+		(title "PlugAndPlay Power Converter 1x6 x1")
 		(date "2026-08-03")
 		(rev "1")
 		(company "A.B. Yazamut")
