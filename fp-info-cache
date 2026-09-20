@@ -1,4 +1,4 @@
-27431980722855097
+27437342508138162
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94115,6 +94115,13 @@ Surface mounted socket strip SMD 1x05 2.54mm single row style2 pin1 right
 10
 5
 PnP_Library
+PinSocket_2x05_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x05 2.54mm double row
+0
+20
+10
+PnP_Library
 PinSocket_2x06_P2.54mm_Vertical_SMD
 surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
 Surface mounted socket strip SMD 2x06 2.54mm double row
@@ -94143,12 +94150,26 @@ SMD-CBI-5mm-4Gang
 0
 0
 PnP_Library
+SOT23-8_5X3_TEX
+
+LP5815DRLR 
+0
+8
+8
+PnP_Library
 SW_Slide_SPDT_Straight_3.0mm
 CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
 switch SPDT
 0
 5
 3
+PnP_Library
+UDFN-6L_2X2X0P5_STM
+
+STTS22HTR 
+0
+7
+7
 PnP_Library
 USB_C_Receptacle_G-Switch_GT-USB-7010ASV
 USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf
